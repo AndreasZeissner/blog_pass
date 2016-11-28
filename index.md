@@ -1,7 +1,7 @@
 # Overview
-- [ ] cleanup
-- [ ] Make sections
-- [ ] Cluster informations in the notes   
+- [X] cleanup
+- [X] Make sections
+- [X] Cluster informations in the notes   
 
 ## Introduction
 --- 
