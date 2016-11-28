@@ -13,7 +13,7 @@ NOTES
 ---
 RAW
 ---
-Since I was more and more often in our office in Munich the last few weeks, I decided to tryout NixOS on an old MacBook Air. NixOS is a Linux distribution, that makes it easy to configure your machine over some nix-Configuration Files. I used the chance to cleanup some stuff, make some necessary backups and to give pass a try.Pass is [ pass.org? ] a lightweight tool, to handle your passwordmanagment on the command line.
+Since I was more and more often in our office in Munich the last few weeks, I decided to tryout NixOS on an old MacBook Air. NixOS is a Linux distribution, that makes it easy to configure your machine over some nix-configuration Files. I used the chance to cleanup some stuff, make some necessary backups and to give pass a try. Pass is a lightweight tool to handle your passwordmanagment on the command line, you can find more information about it at https://www.passwordstore.org.
 
 ## My problems with KeePass
 ---
